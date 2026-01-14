@@ -1,4 +1,3 @@
-# student-performance-sql
 # Student Performance Analysis (MySQL)
 A SQL project that analyses academic records to uncover trends like GPA distribution by grade and performance differences by demographic groups.
 
